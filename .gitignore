@@ -1,0 +1,12 @@
+# dataset (not mine to publish)
+MLT-CW-Dataset/
+*.zip
+*.csv
+
+# environments and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# logs and scratch
+*.log
